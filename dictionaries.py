@@ -13,15 +13,16 @@ ATL_Pragna_Scores =	{
   "Sanjay Parikh": 86
 }
 
-#Get scores array
+#Get an array of only the scores
 https://www.w3schools.com/python/python_dictionaries.asp
 
-#two types of for loops (foreach and using range(0,len))
+#try the two types of for loops (foreach and using range(0,len))
 https://www.w3schools.com/python/python_dictionaries.asp
 
-#Find Avg, Mean, Median Scores
+#Find Avg, Mean, Median scores from array
 
-#Find Min/Max -> now return name (two methods, dictionary or for loop then indexing)
+#Find Min/Max
+#now return names of Min/Max
 
 #Sort array (sorting algorithms discoveries)
 
